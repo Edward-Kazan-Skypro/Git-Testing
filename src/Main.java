@@ -4,7 +4,7 @@ public class Main {
         for (int i = 0; i < 20; i++) {
             System.out.print((int) (Math.random() * 100) + " ");
         }
-        System.out.println("end");
+        System.out.println("not end");
 
     }
 }
